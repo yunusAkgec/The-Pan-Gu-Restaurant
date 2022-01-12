@@ -1,0 +1,30 @@
+@import "_variables";
+@import "~bootstrap/scss/bootstrap.scss";
+
+.body{
+  background-color: bisque;
+}
+
+*{
+    text-align: justify;
+}
+
+.card-header{
+    text-align: center;
+    color: #1d1f24;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .slider-header{
+    text-align: center;
+  }
+
+
